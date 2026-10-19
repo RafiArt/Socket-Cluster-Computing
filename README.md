@@ -1,6 +1,6 @@
 # Tugas 1 — Socket untuk Cluster Computing
 
-Mata kuliah: **Komputasi Berbasis Jaringan**
+Mata kuliah: **Komputasi Berbasis Jaringan**<br>
 Topik: Implementasi client-server socket yang mensimulasikan **load balancing** sederhana dengan arsitektur **broker–worker**.
 
 ---
@@ -276,8 +276,8 @@ Dengan pola `long,short,short` (periode 3 = jumlah worker), strategi `sequential
 
 ---
 
-**Author:**
-<u>**MUHAMMAD AINURROFIQ ANWAR BUHANG**</u>
-NIM: 26051905007
-<u>**MEAKHEL GUNAWAN**</u>
-NIM: 26051905019
+**Author:**<br>
+<u>**MUHAMMAD AINURROFIQ ANWAR BUHANG**</u><br>
+NIM: 26051905007<br>
+<u>**MEAKHEL GUNAWAN**</u><br>
+NIM: 26051905019<br>
