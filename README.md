@@ -1,6 +1,6 @@
 # Tugas 1 — Socket untuk Cluster Computing
 
-Mata kuliah: **Komputasi Berbasis Jaringan (AKSO) — Ganjil 2024**
+Mata kuliah: **Komputasi Berbasis Jaringan**
 Topik: Implementasi client-server socket yang mensimulasikan **load balancing** sederhana dengan arsitektur **broker–worker**.
 
 ---
